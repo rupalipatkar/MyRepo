@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+# Ranorex Studio 5
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_recording", "test1\Test_recording.csproj", "{5B9738BB-F69B-447A-A181-61DF3F19F573}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_WithoutRecording", "Test2\Test_WithoutRecording.csproj", "{3D7B7B71-DBDB-4C2D-8242-EC5C731664C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B9738BB-F69B-447A-A181-61DF3F19F573}.Debug|x86.Build.0 = Debug|x86
+		{5B9738BB-F69B-447A-A181-61DF3F19F573}.Debug|x86.ActiveCfg = Debug|x86
+		{5B9738BB-F69B-447A-A181-61DF3F19F573}.Release|x86.Build.0 = Release|x86
+		{5B9738BB-F69B-447A-A181-61DF3F19F573}.Release|x86.ActiveCfg = Release|x86
+		{3D7B7B71-DBDB-4C2D-8242-EC5C731664C9}.Debug|x86.Build.0 = Debug|x86
+		{3D7B7B71-DBDB-4C2D-8242-EC5C731664C9}.Debug|x86.ActiveCfg = Debug|x86
+		{3D7B7B71-DBDB-4C2D-8242-EC5C731664C9}.Release|x86.Build.0 = Release|x86
+		{3D7B7B71-DBDB-4C2D-8242-EC5C731664C9}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+EndGlobal
